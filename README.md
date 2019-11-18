@@ -7,3 +7,4 @@ List of Provinces from https://en.wikipedia.org/wiki/Provinces_of_the_Philippine
 ## Update 11/18/2019
 New list from Philippine Statistics Authority
 https://psa.gov.ph/classification/psgc/?q=psgc
+Added tables `regions`, `provinces` and `cities`
